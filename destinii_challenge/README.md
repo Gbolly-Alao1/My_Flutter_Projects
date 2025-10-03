@@ -1,6 +1,6 @@
 # destinii_challenge_app
 
-A new Flutter project.
+This is a choose-your-own-adventure game that brings interactive storytelling to mobile.
 
 ## Getting Started
 
