@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501980619151",
+    "project_id": "whizards-flash-chat-project",
+    "storage_bucket": "whizards-flash-chat-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501980619151:android:4034e06d4e2b000ed5ebfa",
+        "android_client_info": {
+          "package_name": "com.gbolahan.flash_chat_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOOQaLtqImq__IbR56XH_-rSiqw9uuas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
